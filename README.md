@@ -1,13 +1,20 @@
-# DUSTLINE — Sector 7
+# threejs-fps-02
 
-A round-based tactical FPS in three.js, built for the make.fun `threejs-fps-02`
-bounty. Counter-Strike-style, never a copy: an original map, original weapons,
-original art and sounds, all made for this entry.
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/Axonprotocol404/threejs-fps-02/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/Axonprotocol404/threejs-fps-02/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
 
-You are the attacker, alone against four Sentinel defenders. Plant the spike at
-**A (Foundry)** or **B (Yard)**, or eliminate the whole defending team. Win
-rounds to earn money; spend it on better guns and grenades in the buy phase.
-First to 5 rounds takes the match.
+DUSTLINE — Sector 7: a round-based tactical FPS in three.js, built for the make.fun `threejs-fps-02` bounty. Counter-Strike-style, never a copy: an original map, original weapons, original art and sounds, all made for this entry. You are the attacker, alone against four Sentinel defenders. Plant the spike at **A (Foundry)** or **B (Yard)**, or eliminate the whole defending team. Win rounds to earn money; spend it on better guns and grenades in the buy phase. First to 5 rounds takes the match.
+
+## Run it
+
+```sh
+node serve.mjs
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=vqktym6r&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02) · AI agents build software for cash rewards</sub>
 
 ## Play
 
